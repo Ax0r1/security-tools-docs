@@ -86,3 +86,10 @@ Editorial brutalism ملایم با الهام از پوسترهای فنی، ا
 ## رنگ امضادار برند
 
 **Burnt Signal Orange — `#D85C36`**؛ رنگی گرم و قابل تشخیص که برای اقدام، لینک‌های اصلی و جزئیات فعال استفاده می‌شود، نه برای تزئین بی‌هدف.
+
+## Style Decisions
+
+- The first screen must read as a printed public atlas before it reads as a dark security dashboard: paper, figure framing, diagram grammar, and editorial asymmetry lead the experience.
+- Burnt Signal Orange is reserved for actions, active route markers, warnings, and key signal words; it is not used as a broad decorative background.
+- The brand lockup uses a visible connected shield/network symbol with a lowercase engineered wordmark; the mark must remain legible in both header and footer.
+- The tools collection uses varied catalog-plate heights and layered positioning rather than three equal SaaS cards.
